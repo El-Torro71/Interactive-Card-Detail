@@ -36,7 +36,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here]([https://your-solution-url.com](https://el-torres71.github.io/Personal-Site/))
-- Live Site URL: [Live Site](https://el-torres71.github.io/Personal-Site/)
+- Live Site URL: [Live Site](https://el-torro71.github.io/Interactive-Card-Detail/)
 
 ## My process
 
