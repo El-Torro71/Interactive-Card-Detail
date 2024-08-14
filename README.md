@@ -35,8 +35,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here]([https://your-solution-url.com](https://el-torres71.github.io/Personal-Site/))
+- Live Site URL: [Live Site]([https://your-live-site-url.com](https://el-torres71.github.io/Personal-Site/))
 
 ## My process
 
@@ -73,9 +73,9 @@ For future projects I want to focus on project that are more javascript heavier.
 
 Luis E Torres
 
-- Website - [Add your name here](https://el-torro71.github.io/Personal-Site/)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/El-Torro71)
-- LinkedIn - [@yourusername](https://www.linkedin.com/in/luis-torres-1706421b0/)
+- Website - [Luis Torres](https://el-torro71.github.io/Personal-Site/)
+- Frontend Mentor - [@El-Torro71](https://www.frontendmentor.io/profile/El-Torro71)
+- LinkedIn - [@luis-torres](https://www.linkedin.com/in/luis-torres-1706421b0/)
 
 ## Acknowledgments
 
